@@ -1,0 +1,9 @@
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\bin\Debug\netcoreapp3.1\solicitudes.Domain.deps.json
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\bin\Debug\netcoreapp3.1\solicitudes.Domain.dll
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\bin\Debug\netcoreapp3.1\solicitudes.Domain.pdb
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.csprojAssemblyReference.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.AssemblyInfo.cs
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.dll
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Services\Solicitudes\solicitudes.Domain\obj\Debug\netcoreapp3.1\solicitudes.Domain.pdb

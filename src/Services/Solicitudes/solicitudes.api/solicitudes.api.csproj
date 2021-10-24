@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\solicitudes.Service.EventHandlers\solicitudes.Service.EventHandlers.csproj" />
+    <ProjectReference Include="..\solicitudes.Service.Query\solicitudes.Service.Queries.csproj" />
+    <ProjectReference Include="..\solisitudes.Persistence.Database\solisitudes.Persistence.Database.csproj" />
+  </ItemGroup>
+
+
+</Project>

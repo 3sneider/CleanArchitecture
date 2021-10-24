@@ -1,0 +1,9 @@
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csprojAssemblyReference.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb
