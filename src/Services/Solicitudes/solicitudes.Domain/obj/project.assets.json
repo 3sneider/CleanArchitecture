@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
       "projectName": "solicitudes.Domain",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Domain\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

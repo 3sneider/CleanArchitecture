@@ -2,3 +2,15 @@ C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Paging\
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lclF3o+aURBrh5Sh60GEe/+T6I4qv2ey7Y327jrt2CDslCqEMswB6NNtmAyHC2jjdz8m7zCj+aR7mDXPv7fZLg==",
+  "dgSpecHash": "aBwK5k7hMQDHEO2wnYE2H10FtpPG4Jo4GVAaXVpMDt6guM5ya0iUWvJJRBUaq/kGNTc36HolKysN2VTdA+DISA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

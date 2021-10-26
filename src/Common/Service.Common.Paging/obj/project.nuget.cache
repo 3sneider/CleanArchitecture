@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4evVDPlLxigp1BDXiq7dfMJem3X/I1r6RolKQLyA/Xdng1J+1fyFAAmcdqKBAk0kk2bZcBUKDxJn+O9wMkWxPw==",
+  "dgSpecHash": "gDRjgZ7dp6avUyN40UPAlnmt1cACaNSy9/LRFjsbIFDr6x33+8l7Wm5PkeXBLGbVzclO+Bk6R41xsWwvcTxbcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",

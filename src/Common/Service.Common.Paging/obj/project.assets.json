@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
       "projectName": "Service.Common.Paging",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -575,8 +575,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
             }
           }
         }

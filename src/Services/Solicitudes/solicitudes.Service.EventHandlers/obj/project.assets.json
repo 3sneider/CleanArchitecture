@@ -5770,11 +5770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
       "projectName": "solicitudes.Service.EventHandlers",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5795,8 +5795,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
             }
           }
         }

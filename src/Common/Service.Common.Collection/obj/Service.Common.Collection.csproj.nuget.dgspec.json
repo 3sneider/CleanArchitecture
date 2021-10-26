@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {}
+    "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Collection\\obj\\",
+        "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

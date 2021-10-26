@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
       "projectName": "solicitudes.Service.Queries",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5818,14 +5818,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
             },
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
             },
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
             }
           }
         }

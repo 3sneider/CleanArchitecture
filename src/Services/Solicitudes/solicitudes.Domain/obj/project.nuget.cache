@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGqjgQj5l+EfzdmW//ye56a5dTB6rHVjEiug2I8h0HeJstClU1jn8N3z56zAInPY8dHqVvACYSeQy1tsML1r9w==",
+  "dgSpecHash": "livZm4UFzoQZsZflZy+JWrg5Pyc6bJtk8oPIucTs5uMEmwXiVm8AjpG5juFye/7+lAnNs1jIGsk4IMlC4QRWGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Domain\\solicitudes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

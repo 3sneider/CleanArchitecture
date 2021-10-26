@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIFsPT3opEPISJ3XS6M3HVPZ8F2U6LNk9y9GbOLEqZ/469YhcytlKa2LJ9sVlsHu03yocIVS6A7f4xetHXQJIw==",
+  "dgSpecHash": "kQTY0YNz8FZftNbM0d0P0yvvzbIocJH9QV+raw4jksymPULkjRnfYENSSDZFT4xFtSmqkPsu91/J1Juxj616Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

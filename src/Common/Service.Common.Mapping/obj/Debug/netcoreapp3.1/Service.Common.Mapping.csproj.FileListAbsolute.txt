@@ -7,3 +7,12 @@ C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Mapping
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csproj.CoreCompileInputs.cache
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.dll
 C:\Users\msi\source\repos\Colsubsidio.Commerce\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.deps.json
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csprojAssemblyReference.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfoInputs.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfo.cs
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+D:\githubProjects\CleanArchitecture\src\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.pdb

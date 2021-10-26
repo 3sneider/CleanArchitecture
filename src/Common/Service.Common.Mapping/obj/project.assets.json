@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
       "projectName": "Service.Common.Mapping",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Common\\Service.Common.Mapping\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Common\\Service.Common.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

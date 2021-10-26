@@ -5982,11 +5982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
+      "projectUniqueName": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
       "projectName": "solicitudes.api",
-      "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
+      "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.api\\obj\\",
+      "outputPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6007,14 +6007,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj"
             },
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.Query\\solicitudes.Service.Queries.csproj"
             },
-            "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
-              "projectPath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
+            "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj": {
+              "projectPath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solisitudes.Persistence.Database\\solisitudes.Persistence.Database.csproj"
             }
           }
         }

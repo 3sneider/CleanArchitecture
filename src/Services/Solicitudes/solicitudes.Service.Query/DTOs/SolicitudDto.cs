@@ -9,6 +9,7 @@ namespace solicitudes.Service.Queries.DTOs
         public int SolicitudId { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
-        
+        //public string Token { get; set; }
+
     }
 }

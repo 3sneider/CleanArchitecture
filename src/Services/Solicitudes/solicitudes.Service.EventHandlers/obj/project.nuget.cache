@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2ofAbvOdrCSZfhFJYT98kONp2iWH858RdIswVovby5QB2wSLuuVUg06f5iXeABE0mCkSBvUdk/3XPwPXzICoQ==",
+  "dgSpecHash": "0Sm8e2w6QztmotzXAY2YT2YsAbBmB82aEiqkMLylyDLXEMrjkdXV38J/JAYGsFdcwY780IOB4T6FDFkAcNZAPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.Service.EventHandlers\\solicitudes.Service.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

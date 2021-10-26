@@ -1,0 +1,14 @@
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.deps.json
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.dll
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.pdb
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solicitudes.Domain.dll
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solisitudes.Persistence.Database.dll
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solisitudes.Persistence.Database.pdb
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\bin\Debug\netcoreapp3.1\solicitudes.Domain.pdb
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.csprojAssemblyReference.cache
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.AssemblyInfoInputs.cache
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.AssemblyInfo.cs
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.csproj.CoreCompileInputs.cache
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.csproj.CopyComplete
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.dll
+D:\githubProjects\CleanArchitecture\src\Services\Solicitudes\solicitudes.Service.EventHandlers\obj\Debug\netcoreapp3.1\solicitudes.Service.EventHandlers.pdb

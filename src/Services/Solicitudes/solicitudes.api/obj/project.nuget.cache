@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ht+pkGxe321nTgWI+Kuurh7jYOL2WGZ6vM50NYmKnfI3PUWuNMuV64pDvUJ+tSAki22JSGy7B8Xqz263Yl4+Q==",
+  "dgSpecHash": "iz835I5sUJdKEeuf580MTUUdH/JxTSIyJpiu73wt6oiqXHejb/ntOFeqBo5eNFtO8UyqAjz+7567WlHWCiJVNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msi\\source\\repos\\Colsubsidio.Commerce\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
+  "projectFilePath": "D:\\githubProjects\\CleanArchitecture\\src\\Services\\Solicitudes\\solicitudes.api\\solicitudes.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
